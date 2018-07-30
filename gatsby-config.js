@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Tsukamotch Default Starter',
+    title: 'Tsukamotch 2 Default Starter',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }
