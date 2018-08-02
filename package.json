@@ -4,11 +4,20 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+<<<<<<< HEAD
     "gatsby": "^1.9.277",
     "gatsby-cli": "^1.1.58",
     "gatsby-link": "^1.6.46",
     "gatsby-plugin-react-helmet": "^2.0.11",
     "react-helmet": "^5.2.0"
+=======
+    "gatsby": "^1.9.247",
+    "gatsby-cli": "^1.1.58",
+    "gatsby-link": "^1.6.46",
+    "gatsby-plugin-react-helmet": "^2.0.11",
+    "react-helmet": "^5.2.0",
+    "serve": "^9.3.0"
+>>>>>>> 144fa9a22bcd3d548eda44a076d4eabe7029e869
   },
   "keywords": [
     "gatsby"

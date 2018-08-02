@@ -1,0 +1,12 @@
+.paging {
+  padding: 2em 3em;
+  a {
+    display: block;
+    &:first-child {
+      float: left;
+    }
+    &:last-child {
+      float: right;
+    }
+  }
+}
