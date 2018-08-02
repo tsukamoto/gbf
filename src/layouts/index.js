@@ -3,13 +3,7 @@ import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 
 import Header from '../components/header'
-<<<<<<< HEAD
 import './index.css'
-=======
-import Footer from '../components/footer'
-import './index.css'
-import './add.css'
->>>>>>> 144fa9a22bcd3d548eda44a076d4eabe7029e869
 
 const Layout = ({ children, data }) => (
   <div>
@@ -31,10 +25,6 @@ const Layout = ({ children, data }) => (
     >
       {children()}
     </div>
-<<<<<<< HEAD
-=======
-    <Footer siteCopy={data.site.siteMetadata.copy} />
->>>>>>> 144fa9a22bcd3d548eda44a076d4eabe7029e869
   </div>
 )
 
