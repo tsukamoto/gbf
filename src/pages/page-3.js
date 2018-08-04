@@ -9,4 +9,4 @@ const SecondPage = () => (
   </div>
 )
 
-export default SecondPage
+export default ThirdPage

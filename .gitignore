@@ -3,6 +3,9 @@
 node_modules
 yarn-error.log
 
+# Visual Studi Code setting folder
+.vscode
+
 # Build directory
 /public
 .DS_Store
