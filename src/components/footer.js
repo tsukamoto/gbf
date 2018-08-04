@@ -23,9 +23,10 @@ const Footer = ({ siteCopy }) => (
             textDecoration: 'none',
           }}
         >
-          {siteCopy}
-          © 2018 Tsukamotch All Rights Reserved.
         </Link>
+      </div>
+      <div style={{ textAlign: 'center', color: '#537845' }}>
+        {siteCopy}
       </div>
     </div>
   </div>
